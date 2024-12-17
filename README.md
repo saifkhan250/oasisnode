@@ -1,4 +1,4 @@
-gitclone https://github.com/saifkhan250/oasisnode
+gitclone https://github.com/saifkhan250/oasisnode.git
 
 Tool oasis mới 
 
